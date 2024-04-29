@@ -12,7 +12,7 @@
         "steps": [
           {
             "result": {
-              "duration": 3886047400,
+              "duration": 2956925900,
               "status": "passed"
             },
             "line": 5,
@@ -24,7 +24,7 @@
           },
           {
             "result": {
-              "duration": 98341900,
+              "duration": 106320700,
               "status": "passed"
             },
             "line": 6,
@@ -36,7 +36,7 @@
           },
           {
             "result": {
-              "duration": 68054900,
+              "duration": 70076800,
               "status": "passed"
             },
             "line": 7,
@@ -48,7 +48,7 @@
           },
           {
             "result": {
-              "duration": 709479200,
+              "duration": 860225300,
               "status": "passed"
             },
             "line": 8,
@@ -61,7 +61,7 @@
         ]
       },
       {
-        "line": 11,
+        "line": 10,
         "name": "User Search the Hotel in the Adactin Application",
         "description": "",
         "id": "hotel-booking-of-the-adactin-application;user-search-the-hotel-in-the-adactin-application",
@@ -70,10 +70,10 @@
         "steps": [
           {
             "result": {
-              "duration": 120572400,
+              "duration": 163925200,
               "status": "passed"
             },
-            "line": 12,
+            "line": 11,
             "name": "user Select the Details of Location in the Location Field",
             "match": {
               "location": "StepDefinition.user_Select_the_Details_of_Location_in_the_Location_Field()"
@@ -82,10 +82,10 @@
           },
           {
             "result": {
-              "duration": 2111589000,
+              "duration": 2155540500,
               "status": "passed"
             },
-            "line": 13,
+            "line": 12,
             "name": "user Select the Hotel in the Hotels field",
             "match": {
               "location": "StepDefinition.user_Select_the_Hotel_in_the_Hotels_field()"
@@ -94,10 +94,10 @@
           },
           {
             "result": {
-              "duration": 2240253200,
+              "duration": 2226223800,
               "status": "passed"
             },
-            "line": 14,
+            "line": 13,
             "name": "user Select the Room Type in the Room Type Field",
             "match": {
               "location": "StepDefinition.user_Select_the_Room_Type_in_the_Room_Type_Field()"
@@ -106,10 +106,10 @@
           },
           {
             "result": {
-              "duration": 319224800,
+              "duration": 216736900,
               "status": "passed"
             },
-            "line": 15,
+            "line": 14,
             "name": "user Select the Number0fRooms in the Number Of Rooms Field",
             "match": {
               "arguments": [
@@ -124,10 +124,10 @@
           },
           {
             "result": {
-              "duration": 67190300,
+              "duration": 82934900,
               "status": "passed"
             },
-            "line": 16,
+            "line": 15,
             "name": "user Select the Check in Date in the Check in Date Field",
             "match": {
               "location": "StepDefinition.user_Select_the_Check_in_Date_in_the_Check_in_Date_Field()"
@@ -136,10 +136,10 @@
           },
           {
             "result": {
-              "duration": 120464600,
+              "duration": 68325600,
               "status": "passed"
             },
-            "line": 17,
+            "line": 16,
             "name": "user Select the Check Out Date in the Check Out Date Field",
             "match": {
               "location": "StepDefinition.user_Select_the_Check_Out_Date_in_the_Check_Out_Date_Field()"
@@ -148,10 +148,10 @@
           },
           {
             "result": {
-              "duration": 218280000,
+              "duration": 158311100,
               "status": "passed"
             },
-            "line": 18,
+            "line": 17,
             "name": "user Select the Adults per Room in the Adults per Room Field",
             "match": {
               "location": "StepDefinition.user_Select_the_Adults_per_Room_in_the_Adults_per_Room_Field()"
@@ -160,10 +160,10 @@
           },
           {
             "result": {
-              "duration": 176288200,
+              "duration": 176101000,
               "status": "passed"
             },
-            "line": 19,
+            "line": 18,
             "name": "user Select the Children per Room in the Children per Room Field",
             "match": {
               "location": "StepDefinition.user_Select_the_Children_per_Room_in_the_Children_per_Room_Field()"
@@ -172,10 +172,10 @@
           },
           {
             "result": {
-              "duration": 658622300,
+              "duration": 995828100,
               "status": "passed"
             },
-            "line": 20,
+            "line": 19,
             "name": "user Clicks the Search Button And Navigates to the Select Hotel Page",
             "match": {
               "location": "StepDefinition.user_Clicks_the_Search_Button_And_Navigates_to_the_Select_Hotel_Page()"
@@ -185,7 +185,7 @@
         ]
       },
       {
-        "line": 23,
+        "line": 21,
         "name": "User Select the Hotel in the Adactin Application",
         "description": "",
         "id": "hotel-booking-of-the-adactin-application;user-select-the-hotel-in-the-adactin-application",
@@ -194,10 +194,10 @@
         "steps": [
           {
             "result": {
-              "duration": 60937500,
+              "duration": 66447600,
               "status": "passed"
             },
-            "line": 24,
+            "line": 22,
             "name": "user Select the Hotel Name in the Select field",
             "match": {
               "location": "StepDefinition.user_Select_the_Hotel_Name_in_the_Select_field()"
@@ -206,10 +206,10 @@
           },
           {
             "result": {
-              "duration": 526654100,
+              "duration": 549327100,
               "status": "passed"
             },
-            "line": 25,
+            "line": 23,
             "name": "user Clicks the Continue Button And it Navigates to the Book a Hotel Page",
             "match": {
               "location": "StepDefinition.user_Clicks_the_Continue_Button_And_it_Navigates_to_the_Book_a_Hotel_Page()"
@@ -219,7 +219,7 @@
         ]
       },
       {
-        "line": 28,
+        "line": 25,
         "name": "User Book a Hotel in the Adactin Application",
         "description": "",
         "id": "hotel-booking-of-the-adactin-application;user-book-a-hotel-in-the-adactin-application",
@@ -228,10 +228,10 @@
         "steps": [
           {
             "result": {
-              "duration": 67887500,
+              "duration": 67484700,
               "status": "passed"
             },
-            "line": 29,
+            "line": 26,
             "name": "user Enter the First Name in the First name Field",
             "match": {
               "location": "StepDefinition.user_Enter_the_First_Name_in_the_First_name_Field()"
@@ -240,10 +240,10 @@
           },
           {
             "result": {
-              "duration": 63197900,
+              "duration": 68684400,
               "status": "passed"
             },
-            "line": 30,
+            "line": 27,
             "name": "user Enter the Last Name in the Last name Field",
             "match": {
               "location": "StepDefinition.user_Enter_the_Last_Name_in_the_Last_name_Field()"
@@ -252,10 +252,10 @@
           },
           {
             "result": {
-              "duration": 71129000,
+              "duration": 63658900,
               "status": "passed"
             },
-            "line": 31,
+            "line": 28,
             "name": "user Enter the Billing Address in the Billing Address Field",
             "match": {
               "location": "StepDefinition.user_Enter_the_Billing_Address_in_the_Billing_Address_Field()"
@@ -264,10 +264,10 @@
           },
           {
             "result": {
-              "duration": 62815800,
+              "duration": 75450800,
               "status": "passed"
             },
-            "line": 32,
+            "line": 29,
             "name": "user Enter the Credit Card No in the Credit Card details",
             "match": {
               "location": "StepDefinition.user_Enter_the_Credit_Card_No_in_the_Credit_Card_details()"
@@ -276,10 +276,10 @@
           },
           {
             "result": {
-              "duration": 164701800,
+              "duration": 158204100,
               "status": "passed"
             },
-            "line": 33,
+            "line": 30,
             "name": "user Select the Credit Card Type in the Credit Card Field",
             "match": {
               "location": "StepDefinition.user_Select_the_Credit_Card_Type_in_the_Credit_Card_Field()"
@@ -288,10 +288,10 @@
           },
           {
             "result": {
-              "duration": 126662500,
+              "duration": 118593600,
               "status": "passed"
             },
-            "line": 34,
+            "line": 31,
             "name": "user Select the Expiry Date in the Select Month Field",
             "match": {
               "location": "StepDefinition.user_Select_the_Expiry_Date_in_the_Select_Month_Field()"
@@ -300,10 +300,10 @@
           },
           {
             "result": {
-              "duration": 112756300,
+              "duration": 101237600,
               "status": "passed"
             },
-            "line": 35,
+            "line": 32,
             "name": "user Select the Expiry Date in the Select Year Field",
             "match": {
               "location": "StepDefinition.user_Select_the_Expiry_Date_in_the_Select_Year_Field()"
@@ -312,10 +312,10 @@
           },
           {
             "result": {
-              "duration": 71622700,
+              "duration": 72136300,
               "status": "passed"
             },
-            "line": 36,
+            "line": 33,
             "name": "user Enter the CVV Number in the CVV Field",
             "match": {
               "location": "StepDefinition.user_Enter_the_CVV_Number_in_the_CVV_Field()"
@@ -324,10 +324,10 @@
           },
           {
             "result": {
-              "duration": 54223800,
+              "duration": 76029700,
               "status": "passed"
             },
-            "line": 37,
+            "line": 34,
             "name": "user Clicks the Book Now Button And it Navigates to the Booking Confirmation Page",
             "match": {
               "location": "StepDefinition.user_Clicks_the_Book_Now_Button_And_it_Navigates_to_the_Booking_Confirmation_Page()"
@@ -336,10 +336,10 @@
           },
           {
             "result": {
-              "duration": 16602731800,
+              "duration": 10057421700,
               "status": "passed"
             },
-            "line": 38,
+            "line": 35,
             "name": "user Clicks the My Itinerary Button in the Booking confirmation page And it Navigates to the Booked Itinerary Page",
             "match": {
               "location": "StepDefinition.user_Clicks_the_My_Itinerary_Button_in_the_Booking_confirmation_page_And_it_Navigates_to_the_Booked_Itinerary_Page()"
@@ -349,7 +349,7 @@
         ]
       },
       {
-        "line": 40,
+        "line": 37,
         "name": "User Logout the Adactin Application",
         "description": "",
         "id": "hotel-booking-of-the-adactin-application;user-logout-the-adactin-application",
@@ -358,10 +358,10 @@
         "steps": [
           {
             "result": {
-              "duration": 731422500,
+              "duration": 513939900,
               "status": "passed"
             },
-            "line": 41,
+            "line": 38,
             "name": "user Clicks the Logout button And it Navigates to the Successfully Logged out page",
             "match": {
               "location": "StepDefinition.user_Clicks_the_Logout_button_And_it_Navigates_to_the_Successfully_Logged_out_page()"
