@@ -1,13 +1,5 @@
 Feature: Hotel Booking of the Adactin Application
 
-
-Scenario: User Login into the Adactin Application
-Given user Launch the Adactin Application
-When user Enter the Username in the Username Field
-And user Enter the Password in the Password Field
-Then user Clicks the Login Button And it Navigates to the Search Hotel Page
-
-
 Scenario: User Search the Hotel in the Adactin Application
 When user Select the Details of Location in the Location Field
 And user Select the Hotel in the Hotels field
@@ -19,11 +11,9 @@ And user Select the Adults per Room in the Adults per Room Field
 And user Select the Children per Room in the Children per Room Field
 Then user Clicks the Search Button And Navigates to the Select Hotel Page
 
-
 Scenario: User Select the Hotel in the Adactin Application
 When user Select the Hotel Name in the Select field
 Then user Clicks the Continue Button And it Navigates to the Book a Hotel Page
-
 
 Scenario: User Book a Hotel in the Adactin Application
 When user Enter the First Name in the First name Field
@@ -39,6 +29,12 @@ Then user Clicks the My Itinerary Button in the Booking confirmation page And it
 
 Scenario: User Logout the Adactin Application
 Then user Clicks the Logout button And it Navigates to the Successfully Logged out page
+
+Scenario: User Login into the Adactin Application
+Given user Launch the Adactin Application
+When user Enter the Username in the Username Field
+And user Enter the Password in the Password Field
+Then user Clicks the Login Button And it Navigates to the Search Hotel Page
 
 	
 
