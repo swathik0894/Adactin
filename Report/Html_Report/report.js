@@ -12,13 +12,7 @@ formatter.scenario({
   "description": "",
   "id": "hotel-booking-of-the-adactin-application;user-login-into-the-adactin-application",
   "type": "scenario",
-  "keyword": "Scenario",
-  "tags": [
-    {
-      "line": 3,
-      "name": "@LoginTest"
-    }
-  ]
+  "keyword": "Scenario"
 });
 formatter.step({
   "line": 5,
@@ -44,28 +38,28 @@ formatter.match({
   "location": "StepDefinition.user_Launch_the_Adactin_Application()"
 });
 formatter.result({
-  "duration": 2360737500,
+  "duration": 3886047400,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinition.user_Enter_the_Username_in_the_Username_Field()"
 });
 formatter.result({
-  "duration": 100247800,
+  "duration": 98341900,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinition.user_Enter_the_Password_in_the_Password_Field()"
 });
 formatter.result({
-  "duration": 75133700,
+  "duration": 68054900,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinition.user_Clicks_the_Login_Button_And_it_Navigates_to_the_Search_Hotel_Page()"
 });
 formatter.result({
-  "duration": 505712900,
+  "duration": 709479200,
   "status": "passed"
 });
 formatter.scenario({
@@ -74,13 +68,7 @@ formatter.scenario({
   "description": "",
   "id": "hotel-booking-of-the-adactin-application;user-search-the-hotel-in-the-adactin-application",
   "type": "scenario",
-  "keyword": "Scenario",
-  "tags": [
-    {
-      "line": 10,
-      "name": "@SearchHotel"
-    }
-  ]
+  "keyword": "Scenario"
 });
 formatter.step({
   "line": 12,
@@ -131,21 +119,21 @@ formatter.match({
   "location": "StepDefinition.user_Select_the_Details_of_Location_in_the_Location_Field()"
 });
 formatter.result({
-  "duration": 594094100,
+  "duration": 120572400,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinition.user_Select_the_Hotel_in_the_Hotels_field()"
 });
 formatter.result({
-  "duration": 2100069200,
+  "duration": 2111589000,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinition.user_Select_the_Room_Type_in_the_Room_Type_Field()"
 });
 formatter.result({
-  "duration": 2165333300,
+  "duration": 2240253200,
   "status": "passed"
 });
 formatter.match({
@@ -158,42 +146,42 @@ formatter.match({
   "location": "StepDefinition.user_Select_the_Number_fRooms_in_the_Number_Of_Rooms_Field(int)"
 });
 formatter.result({
-  "duration": 240877300,
+  "duration": 319224800,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinition.user_Select_the_Check_in_Date_in_the_Check_in_Date_Field()"
 });
 formatter.result({
-  "duration": 82415600,
+  "duration": 67190300,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinition.user_Select_the_Check_Out_Date_in_the_Check_Out_Date_Field()"
 });
 formatter.result({
-  "duration": 65192800,
+  "duration": 120464600,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinition.user_Select_the_Adults_per_Room_in_the_Adults_per_Room_Field()"
 });
 formatter.result({
-  "duration": 286323900,
+  "duration": 218280000,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinition.user_Select_the_Children_per_Room_in_the_Children_per_Room_Field()"
 });
 formatter.result({
-  "duration": 179748500,
+  "duration": 176288200,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinition.user_Clicks_the_Search_Button_And_Navigates_to_the_Select_Hotel_Page()"
 });
 formatter.result({
-  "duration": 465652200,
+  "duration": 658622300,
   "status": "passed"
 });
 formatter.scenario({
@@ -202,13 +190,7 @@ formatter.scenario({
   "description": "",
   "id": "hotel-booking-of-the-adactin-application;user-select-the-hotel-in-the-adactin-application",
   "type": "scenario",
-  "keyword": "Scenario",
-  "tags": [
-    {
-      "line": 22,
-      "name": "@SelectHotel"
-    }
-  ]
+  "keyword": "Scenario"
 });
 formatter.step({
   "line": 24,
@@ -224,14 +206,14 @@ formatter.match({
   "location": "StepDefinition.user_Select_the_Hotel_Name_in_the_Select_field()"
 });
 formatter.result({
-  "duration": 65076100,
+  "duration": 60937500,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinition.user_Clicks_the_Continue_Button_And_it_Navigates_to_the_Book_a_Hotel_Page()"
 });
 formatter.result({
-  "duration": 506436200,
+  "duration": 526654100,
   "status": "passed"
 });
 formatter.scenario({
@@ -240,13 +222,7 @@ formatter.scenario({
   "description": "",
   "id": "hotel-booking-of-the-adactin-application;user-book-a-hotel-in-the-adactin-application",
   "type": "scenario",
-  "keyword": "Scenario",
-  "tags": [
-    {
-      "line": 27,
-      "name": "@BookHotel"
-    }
-  ]
+  "keyword": "Scenario"
 });
 formatter.step({
   "line": 29,
@@ -302,106 +278,82 @@ formatter.match({
   "location": "StepDefinition.user_Enter_the_First_Name_in_the_First_name_Field()"
 });
 formatter.result({
-  "duration": 74962100,
+  "duration": 67887500,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinition.user_Enter_the_Last_Name_in_the_Last_name_Field()"
 });
 formatter.result({
-  "duration": 71572000,
+  "duration": 63197900,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinition.user_Enter_the_Billing_Address_in_the_Billing_Address_Field()"
 });
 formatter.result({
-  "duration": 71647400,
+  "duration": 71129000,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinition.user_Enter_the_Credit_Card_No_in_the_Credit_Card_details()"
 });
 formatter.result({
-  "duration": 96285000,
+  "duration": 62815800,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinition.user_Select_the_Credit_Card_Type_in_the_Credit_Card_Field()"
 });
 formatter.result({
-  "duration": 163720700,
+  "duration": 164701800,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinition.user_Select_the_Expiry_Date_in_the_Select_Month_Field()"
 });
 formatter.result({
-  "duration": 102716800,
+  "duration": 126662500,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinition.user_Select_the_Expiry_Date_in_the_Select_Year_Field()"
 });
 formatter.result({
-  "duration": 114415100,
+  "duration": 112756300,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinition.user_Enter_the_CVV_Number_in_the_CVV_Field()"
 });
 formatter.result({
-  "duration": 72384800,
+  "duration": 71622700,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinition.user_Clicks_the_Book_Now_Button_And_it_Navigates_to_the_Booking_Confirmation_Page()"
 });
 formatter.result({
-  "duration": 61580000,
+  "duration": 54223800,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinition.user_Clicks_the_My_Itinerary_Button_in_the_Booking_confirmation_page_And_it_Navigates_to_the_Booked_Itinerary_Page()"
 });
 formatter.result({
-  "duration": 18769623000,
+  "duration": 16602731800,
   "status": "passed"
 });
 formatter.scenario({
-  "line": 41,
+  "line": 40,
   "name": "User Logout the Adactin Application",
   "description": "",
   "id": "hotel-booking-of-the-adactin-application;user-logout-the-adactin-application",
   "type": "scenario",
-  "keyword": "Scenario",
-  "tags": [
-    {
-      "line": 40,
-      "name": "@LogoutTest"
-    }
-  ]
+  "keyword": "Scenario"
 });
 formatter.step({
-  "comments": [
-    {
-      "line": 42,
-      "value": "#When user Search there Order details in the Search Order Id Field"
-    },
-    {
-      "line": 43,
-      "value": "#And user Enter the Order Id in the search order id field"
-    },
-    {
-      "line": 44,
-      "value": "#And Clicks the Go button"
-    },
-    {
-      "line": 45,
-      "value": "#And user should get the order details in the page"
-    }
-  ],
-  "line": 46,
+  "line": 41,
   "name": "user Clicks the Logout button And it Navigates to the Successfully Logged out page",
   "keyword": "Then "
 });
@@ -409,7 +361,7 @@ formatter.match({
   "location": "StepDefinition.user_Clicks_the_Logout_button_And_it_Navigates_to_the_Successfully_Logged_out_page()"
 });
 formatter.result({
-  "duration": 1042369100,
+  "duration": 731422500,
   "status": "passed"
 });
 });
