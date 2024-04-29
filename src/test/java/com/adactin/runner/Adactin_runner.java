@@ -37,11 +37,5 @@ public class Adactin_runner extends Base_Class {
 		driver.close();
 
 	}
-	
-	
-	
-	public static void main(String[] args) {
-		Browser_Launch("chrome");
 
-}
 }

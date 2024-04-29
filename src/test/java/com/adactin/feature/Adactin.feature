@@ -39,10 +39,6 @@ Then user Clicks the My Itinerary Button in the Booking confirmation page And it
 
 @LogoutTest
 Scenario: User Logout the Adactin Application
-#When user Search there Order details in the Search Order Id Field
-#And user Enter the Order Id in the search order id field
-#And Clicks the Go button
-#And user should get the order details in the page
 Then user Clicks the Logout button And it Navigates to the Successfully Logged out page
 
 	

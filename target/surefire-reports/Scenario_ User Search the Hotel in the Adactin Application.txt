@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: Scenario: User Search the Hotel in the Adactin Application
 -------------------------------------------------------------------------------
-Tests run: 10, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 6.053 s - in Scenario: User Search the Hotel in the Adactin Application
+Tests run: 10, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 6.203 s - in Scenario: User Search the Hotel in the Adactin Application
