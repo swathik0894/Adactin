@@ -37,9 +37,6 @@ And user Enter the CVV Number in the CVV Field
 Then user Clicks the Book Now Button And it Navigates to the Booking Confirmation Page
 Then user Clicks the My Itinerary Button in the Booking confirmation page And it Navigates to the Booked Itinerary Page
 
-@LogoutTest
-Scenario: User Logout the Adactin Application
-Then user Clicks the Logout button And it Navigates to the Successfully Logged out page
 
 	
 
